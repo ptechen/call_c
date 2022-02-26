@@ -14,7 +14,7 @@
 
 use libc::size_t;
 
-#[link(name="pcre2")]
+#[link(name="pcre")]
 extern {
 }
 
